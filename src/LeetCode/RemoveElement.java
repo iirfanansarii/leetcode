@@ -1,11 +1,3 @@
-package LeetCode;
-
-public class RemoveElement {
-    public static void main(String[] args) {
-
-    }
-
-}
 
 //leetcode solution starts here
     class Solution {
